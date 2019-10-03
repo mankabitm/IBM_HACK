@@ -6,7 +6,7 @@ A WEB/MOBILE APP TO PERFORM SENTIMENTAL ANALYSIS ON A PERSON BY MONITORING HIS S
 Clone this repo to get started:
 
 ```
-git clone https://https://github.com/mankabitm/IBM_HACK.git
+git clone https://github.com/mankabitm/IBM_HACK.git
 ```
 
 After you clone the repository, a directory will be downloaded to your local machine. It contains all the files of this repo and you should refer to this directory as your 'project directory'.
